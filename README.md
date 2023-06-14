@@ -19,15 +19,19 @@ I am Junior FrontEnd Developer.
 ## :hammer: My technologies:
 
 * REACTJS
+* JAVASCRIPT
+* TYPESCRIPT
 * NODEJS
 * REDUX
 * GRAPHQL
 * MONGODB
-* JAVASCRIPT
+
 * EMBER
 * HTML5
 * CSS
 * SCSS
+* STYLED-COMPONENTS
+* MUI
 * VISUAL STUDIO CODE
 * PYTHON
 * SQL
