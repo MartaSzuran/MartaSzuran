@@ -14,7 +14,6 @@ I am Junior FrontEnd Developer.
 * is well organize
 * open-minded
 * find programming as great fun and can spend many hours looking for solutions 
-        -:point_right:__PICK ME__:point_left:
 
 ## :hammer: My technologies:
 
