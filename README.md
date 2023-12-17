@@ -9,7 +9,7 @@ I am Junior FrontEnd Developer.
 
 ## :muscle: If you are looking for employee who:
 * is responsible
-* is devoted to his tasks
+* is devoted to her tasks
 * love to work as team player
 * is well organize
 * open-minded
@@ -25,6 +25,8 @@ I am Junior FrontEnd Developer.
 * REDUX
 * GRAPHQL
 * MONGODB
+* PHP
+* WORDPRESS
 
 * EMBER
 * HTML5
@@ -33,6 +35,7 @@ I am Junior FrontEnd Developer.
 * STYLED-COMPONENTS
 * MUI
 * VISUAL STUDIO CODE
+* PHPSTORM
 * PYTHON
 * SQL
 * PYCHARM
