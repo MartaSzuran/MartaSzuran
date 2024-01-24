@@ -6,6 +6,7 @@ I am Junior FrontEnd Developer.
 
 ## :blue_heart: What are my current devotions?
 * Working for DataArt - imporve skills in React, node.js, graphql, TypeScript, Next.js, styled-components
+* Working on Client Project - tech: PHP, Wordpress, React, JS, TS, Docker
 
 ## :muscle: If you are looking for employee who:
 * is responsible
